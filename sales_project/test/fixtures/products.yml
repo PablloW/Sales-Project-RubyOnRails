@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  supplier: one
+  category: one
+  description: MyString
+  quantity_per_unit: 1
+  unit_price: 1.5
+
+two:
+  supplier: two
+  category: two
+  description: MyString
+  quantity_per_unit: 1
+  unit_price: 1.5
